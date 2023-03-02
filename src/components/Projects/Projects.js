@@ -44,6 +44,15 @@ function Projects() {
               ghLink="https://github.com/jennymeshaiah09/Hopital-Managment-System"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title="Home Automation"
+              description="It was aurdino project code for home automation using google assistant"
+              ghLink="https://github.com/jennymeshaiah09/Home-Automatiton"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
