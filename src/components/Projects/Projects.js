@@ -31,8 +31,8 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Some Projects in my Git HUB repository"
-              description="It was quizz managment system built using Java which used libraries like Java GUI and etc.."
-              ghLink="https://github.com/jennymeshaiah09/Projects"
+              description="Portfolio website using MERN Stack"
+              ghLink="https://github.com/jennymeshaiah09/Portfolio"
             />
           </Col>
           <Col md={4} className="project-card">
