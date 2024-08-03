@@ -30,11 +30,7 @@ function Home2() {
               <br />
               My field of Interest's are  &nbsp;
               <i>
-                <b className="purple">Data Mining & Data analatyics</b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Data Science.
-                </b>
+                <b className="purple">Software Engineering</b> 
               </i>
               <br />
               <br />
@@ -67,7 +63,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/jennymeshaiah09"
+                  href="https://github.com/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,19 +71,10 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
+              
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/JennyMeshaiah"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/jennymeshaiah/"
+                  href="https://linkedin.com/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +84,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/jenny_meshaiah"
+                  href="https://www.instagram.com/harshithaa_03/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

@@ -23,34 +23,6 @@ function Projects() {
               isBlog={false}
               title="Quizz Managment System"
               description="It was quizz managment system built using Java which used libraries like Java GUI and etc.."
-              ghLink="https://github.com/jennymeshaiah09/Quizz-Managment-System"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={chatify}
-              isBlog={false}
-              title="Some Projects in my Git HUB repository"
-              description="Portfolio website using MERN Stack"
-              ghLink="https://github.com/jennymeshaiah09/Portfolio"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bitsOfCode}
-              isBlog={false}
-              title="Hospital Managment System"
-              description="It was hospital managment system built using Java which used libraries like Java GUI and etc.."
-              ghLink="https://github.com/jennymeshaiah09/Hopital-Managment-System"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bitsOfCode}
-              isBlog={false}
-              title="Home Automation"
-              description="It was aurdino project code for home automation using google assistant"
-              ghLink="https://github.com/jennymeshaiah09/Home-Automatiton"
             />
           </Col>
         </Row>

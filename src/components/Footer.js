@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Jenny Meshaiah</h3>
+          <h3>Designed and Developed by Harshitha</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} KJM</h3>
+          <h3>Copyright © {year} Harshitha</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/jennymeshaiah09"
+                href="https://github.com"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -31,19 +31,10 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
+            
             <li className="social-icons">
               <a
-                href="https://twitter.com/JennyMeshaiah"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href="https://www.linkedin.com/in/jennymeshaiah/"
+                href="https://www.linkedin.com/in"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +44,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/jenny_meshaiah"
+                href="https://www.instagram.com/harshithaa_03/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
