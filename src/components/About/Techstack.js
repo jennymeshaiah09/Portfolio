@@ -5,9 +5,7 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiMongodb,
   DiPython,
-  DiGit,
 } from "react-icons/di";
 import {
 } from "react-icons/si";
